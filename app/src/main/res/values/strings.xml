@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExperimentScope</string>
+
+    <string name="tab_title_users">USERS</string>
+    <string name="tab_title_map">MAP</string>
+
+    <string name="vehicle_information_container_color">Color: %1$s</string>
+    <string name="vehicle_information_container_no_address">Can not retrieve address</string>
+
+    <string name="message_generic_error">Sorry, problems fetching data. Try later.</string>
+    <string name="message_loading_dialog">Fetching data…</string>
+    <string name="message_enable_location">To find route successfully, please turn location on…</string>
+    <string name="message_permission_denied">Permission denied!</string>
+
+    <string name="vehicle_information_container_find_route_button_info">Find route</string>
+
+</resources>
